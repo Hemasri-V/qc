@@ -1,0 +1,4 @@
+important filter=lfs diff=lfs merge=lfs -text
+important.zip filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+git-lfs filter=lfs diff=lfs merge=lfs -text
